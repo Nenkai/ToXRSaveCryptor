@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ToXRSaveCryptor": {
+      "commandName": "Project",
+      "commandLineArgs": "decrypt --input \"C:\\Users\\nenkai\\AppData\\LocalLow\\BANDAI NAMCO Entertainment\\Tales of Xillia Remastered\\Save\\76561197960271872\\SaveData0.data\""
+    }
+  }
+}
